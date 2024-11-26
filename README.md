@@ -1,7 +1,7 @@
 # ICE-Key-generator
 
 ICE Key generator is a tool for generating encryption keys for the VICE tool.
-This is my version of this tool written in C (gcc (GCC) 13.2.0)
+This is my version of this tool written in C
 
 # Usage
 
